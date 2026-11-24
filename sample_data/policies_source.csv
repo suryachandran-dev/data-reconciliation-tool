@@ -1,0 +1,9 @@
+policy_id,holder_name,product,premium,status,start_date
+POL-1001,Asha Raman,Term Life,1200.00,Active,2023-01-15
+POL-1002,David Clarke,Whole Life,2450.50,Active,2022-11-01
+POL-1003,Meera Nair,Term Life,980.00,Lapsed,2021-06-20
+POL-1004,James Whitfield,Annuity,5000.00,Active,2023-03-10
+POL-1005,Priya Sundar,Term Life,1100.00,Active,2023-07-05
+POL-1006,Oliver Bennett,Whole Life,3150.75,Active,2020-09-12
+POL-1007,Kavya Iyer,Annuity,4200.00,Surrendered,2019-04-30
+POL-1008,Thomas Reid,Term Life,875.25,Active,2024-02-18

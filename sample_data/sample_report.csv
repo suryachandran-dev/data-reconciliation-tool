@@ -1,0 +1,5 @@
+policy_id,issue,column,source_value,target_value
+POL-1003,value_mismatch,status,Lapsed,Active
+POL-1005,value_mismatch,premium,1100.00,1150.00
+POL-1007,missing_in_target,,,
+POL-1009,missing_in_source,,,
